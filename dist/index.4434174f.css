@@ -28,7 +28,6 @@ img {
   fill: currentColor;
   overflow: hidden;
 }
-
 .background {
   position: fixed;
   top: 0;
@@ -39,14 +38,13 @@ img {
   z-index: -10;
   zoom: 1;
   background-color: #fff;
-  background: url(./images/1.jpg);
+  background: url(1.64d8a71a.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-position: center 0;
 }
-
 .globalHeader {
   margin: 20px; /* margin-left: 20px; margin-right: 20px; */
 }
@@ -84,7 +82,6 @@ img {
   color: white;
   font-size: 16px;
 }
-
 .globalMain {
   max-width: 900px;
   margin-left: auto;
@@ -172,3 +169,5 @@ img {
   justify-content: center;
   align-items: center;
 }
+
+/*# sourceMappingURL=index.4434174f.css.map */
